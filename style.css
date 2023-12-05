@@ -1,0 +1,60 @@
+/*body{
+    background-image: linear-gradient(greenyellow,white);
+}*/
+*{
+    background-image: linear-gradient(greenyellow,white);
+}
+.head h1,h3{
+    margin: 1%;
+    text-align:center;
+    text-decoration: underline;
+    background-image: linear-gradient(greenyellow,white);
+    box-shadow: 5px 5px 5px blue;
+}
+
+.head h1{
+    font-weight: bolder;
+    font-size:50px;
+}
+.para1 p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 15px;
+}
+
+
+#para2 ul,ol{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#para3 table{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 30px;
+    padding: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 20px;
+}
+
+#para4 ul{
+    background-image: linear-gradient(greenyellow,white);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.h4 h4{
+    background-image: linear-gradient(greenyellow,white);
+}
+
+.h4 h4:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+img{
+    border-radius: 50%;
+   transition-duration: 1s;
+}
+
+img:hover{
+    border-radius: 0px;
+}
+
+
